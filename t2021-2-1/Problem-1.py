@@ -16,7 +16,6 @@ class Calculator:
         else:
             return "Invalid operation"
 
-# Example usage
 calc = Calculator()
 result = calc.calculate(10, 5, "Addition")
 print("Result:", result)
